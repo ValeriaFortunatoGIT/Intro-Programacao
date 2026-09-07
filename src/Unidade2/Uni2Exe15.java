@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
     System.out.println("Informe um valor: ");
-    float valor = sc.nextFloat();
+    double valor = sc.nextFloat();
     double nota100, nota50, nota20, nota10, nota5, nota2;
     double moeda1, moeda50, moeda25, moeda10, moeda5, moeda01;
 
