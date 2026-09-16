@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class CalculoMediaFinal {
  public static void main(String[] args) {
+    
     Scanner sc = new Scanner(System.in);
     float prova1;
     float prova2;
@@ -41,9 +42,9 @@ public class CalculoMediaFinal {
     System.out.printf("A media final é: %.2f" , mediaFinal);
 
     if (mediaFinal >=  6){
-        System.out.println( " Aprovado(a) ");
+        System.out.println( "Aprovado(a)");
     }else{
-        System.out.println( " Reprovado(a) ");
+        System.out.println( "Reprovado(a)");
     }
 
  }
