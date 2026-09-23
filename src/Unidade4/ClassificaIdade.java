@@ -2,7 +2,7 @@ package Unidade4;
 
 public class ClassificaIdade {
 public static void main(String[] args) {
-    int idade = 7;
+    int idade = 19;
     if(idade >=18){
         System.out.println("Adulto");
     }else{
