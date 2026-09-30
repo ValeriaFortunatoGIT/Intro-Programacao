@@ -15,4 +15,4 @@ package Unidade2;
         System.out.print("Digite o total de vendas feitas pelo vendedor no mes: ");         
         vendas = sc.nextDouble();          
         total = salario + (vendas * 0.15);          
-        System.out.printf("O funcionario" + nome +  "que tem o salario de" + salario + "realizou o total de:" + vendas +  "O total a receber no final do mes é:" + total);   } } 
+        System.out.printf("O funcionario " + nome +  " que tem o salario de " + salario + " realizou o total de: " + vendas +  " O total a receber no final do mes é: " + total);   } } 
