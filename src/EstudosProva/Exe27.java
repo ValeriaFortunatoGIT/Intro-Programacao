@@ -3,6 +3,7 @@ package EstudosProva;
 import java.util.Scanner;
 
 public class Exe27 {
+    
 public static void main(String[] args) {
     Scanner sc =  new Scanner(System.in);
 
