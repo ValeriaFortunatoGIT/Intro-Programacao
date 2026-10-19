@@ -3,6 +3,9 @@ package Unidade5;
 public class Uni5Exe04 {
 public static void main(String[] args) {
     
+//Descreva um algoritmo para calcular o valor de S dado por:
+
+
     float numerador = 3;
     float denominador = 2;
     float total = 0;

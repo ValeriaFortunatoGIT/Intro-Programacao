@@ -2,6 +2,8 @@ package Unidade5;
 
 public class Uni5Exe02 {
 public static void main(String[] args) {
+
+    //Descreva um algoritmo que calcule e escreva a soma dos números pares e a soma dos números ímpares entre 1 e 100.
     
     int totalimpar =0, totalpar = 0;
 

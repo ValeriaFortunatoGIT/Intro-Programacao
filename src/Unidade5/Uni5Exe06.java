@@ -1,5 +1,12 @@
+package Unidade5;
+
+import java.util.Scanner;
+
 public class Uni5Exe06 {
+    
     public static void main(String[] args) {
+
+//Descreva um algoritmo que leia a altura de 20 pessoas e calcule a média de altura das mesmas.
 
         Scanner sc = new Scanner(System.in);
 
